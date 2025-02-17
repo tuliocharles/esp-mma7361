@@ -1,5 +1,5 @@
-#ifndef _mma7361_H_
-#define _mma7361_H_
+#ifndef _esp_mma7361_H_
+#define _esp_mma7361_H_
 
 #include "esp_err.h"
 #include "driver/gpio.h"

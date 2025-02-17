@@ -1,0 +1,6 @@
+dependencies:
+  tuliocharles/esp-mma7361:
+    version: "*"
+    # for local developmente, use the local
+    # copy of the component
+    override_path: "../../../"

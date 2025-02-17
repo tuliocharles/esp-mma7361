@@ -1,0 +1,12 @@
+version: 0.1.0
+
+description: MMA-7361 accelerometer
+
+url: https://github.com/tuliocharles/esp-mma7361
+repository: https://github.com/tuliocharles/esp-mma7361.git
+
+maintainers:
+  - "Túlio Carvalho <tulio.cefetmg@gmail.com"
+
+dependencies:
+  idf: ">=4.4"

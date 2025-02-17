@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "MMA7361.h"
+#include "esp-mma7361.h"
 
 #include "esp_check.h"
 
